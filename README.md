@@ -1,4 +1,4 @@
-## Wordify [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthealphamerc%2Fwordif&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Wordify [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Framonaoldf%2Fwordif&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 A dictionary web app built with Next.js is a user-friendly online platform that allows users to look up the meanings, synonyms, antonyms, and translations of words from various languages. The app is built with Next.js, a React-based web framework that provides features such as server-side rendering, static site generation, and automatic code splitting, which makes it fast and efficient.
 
